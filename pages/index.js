@@ -13,8 +13,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         Func C-1  Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Func C-1 Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <button>作成したよ</button>
 
         <p className={styles.description}>
           Get started by editing{' '}
